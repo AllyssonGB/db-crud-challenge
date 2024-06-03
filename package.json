@@ -9,7 +9,7 @@
     "@elysiajs/html": "^1.0.2",
     "@types/pg": "^8.11.5",
     "dotenv": "^16.4.5",
-    "elysia": "latest",
+    "elysia": "^1.0.22",
     "pg": "^8.11.5"
   },
   "devDependencies": {
